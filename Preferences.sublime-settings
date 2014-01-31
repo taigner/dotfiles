@@ -1,0 +1,13 @@
+{
+    "color_scheme": "Packages/Color Scheme - Default/Solarized (Dark).tmTheme",
+    "highlight_line": true,
+    
+    "highlight_modified_tabs": true,
+    "bold_folder_labels": true,
+    "rulers": [80],
+
+    "ensure_newline_at_eof_on_save": true,
+    
+    "translate_tabs_to_spaces": true,
+    "word_separators": "./\\()\"'-_:,.;<>~!@#%^&*|+=[]{}`~?"
+}
